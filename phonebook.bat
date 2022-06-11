@@ -1,0 +1,1 @@
+java -cp C:\Users\witus\IdeaProjects\PhoneBook\out\artifacts\PhoneBook_jar\PhoneBook.jar C:\Users\witus\IdeaProjects\PhoneBook\src\main\java\com\example\phonebook\PhoneBookApplication.java
